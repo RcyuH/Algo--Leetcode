@@ -58,4 +58,8 @@ def sol_1(nums: List[int]) -> int:
     else: return results[2]
     
     # O(n)
+    
+def sol_2(nums: List[int]) -> int:
+    pass
+
         
